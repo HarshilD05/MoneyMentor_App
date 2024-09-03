@@ -1,0 +1,6 @@
+flutter_icons:
+  android: "money_metor_"  # Name of the icon file for Android (optional)
+  ios: true                 # Generate icons for iOS
+  image_path: "assets/images/banners/app_logo_.png"  # Path to your app logo image
+  min_sdk_android: 21        # Minimum Android SDK version (optional)
+  # Add configurations for web and Windows (optional)

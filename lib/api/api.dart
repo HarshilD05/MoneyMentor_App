@@ -4,8 +4,8 @@ import "package:http/http.dart" as http;
 import 'package:moneymentor/models/stock_data_model.dart';
 import 'package:moneymentor/screen/AppScreen/porfolioscreen/porfolioscreen.dart';
 
-const String serverIP = "192.168.11.167";
-const String serverPort = "5000";
+const String serverIP = "/* Your Server IP */";
+const String serverPort = "/* Your Server Port */";
 const String apiURL = "http://$serverIP:$serverPort/api/";
 
 // All API Fetch Functions

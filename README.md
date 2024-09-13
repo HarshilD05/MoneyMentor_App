@@ -1,5 +1,5 @@
 
-# MoneyMentor <img src="assets/logo.png" alt="" width="200" />
+# MoneyMentor <img src="assets/images/banners/app_logo_.png" alt="" width="200" />
 
 MoneyMentor is an innovative Flutter mobile application designed to help users make informed investment decisions aligned with their financial goals and personal circumstances. With an intuitive, user-friendly application, MoneyMentor empowers users to achieve their financial objectives while promoting financial literacy and smart tax planning.
 
